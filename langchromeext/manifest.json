@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Manga Learner",
+    "version": "1.0.0",
+    "description": "This is Manga Learner",
+    "author": "Lubong",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action":{
+        "default_popup": "popup.html",
+        "default_title": "action"
+    }
+}
+  
